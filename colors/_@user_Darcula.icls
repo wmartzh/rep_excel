@@ -1,0 +1,20 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-03-11T10:39:42</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.3.4.0.0</property>
+    <property name="modified">2018-06-08T16:41:52</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_HIJACKED" value="b28c00" />
+    <option name="FILESTATUS_MERGED" value="ff4427" />
+    <option name="FILESTATUS_MODIFIED" value="acc814" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="acc814" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="acc814" />
+    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="8978f" />
+    <option name="FILESTATUS_modifiedOutside" value="acc814" />
+  </colors>
+</scheme>
